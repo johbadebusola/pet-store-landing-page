@@ -1,2 +1,3 @@
 # pet-store-landing-page
-It's a landing page for a pet store.
+https://johbadebusola.github.io/pet-store-landing-page/
+Tap to view the landing page
